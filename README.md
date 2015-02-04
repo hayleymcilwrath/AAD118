@@ -9,3 +9,5 @@
 
 
 # Project 1 - Macro & Micro
+
+## Research 
