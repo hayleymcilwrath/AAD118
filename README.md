@@ -6,3 +6,6 @@
 * Coursework 2 – Illustrative Pool (25%, hand-in Week 6, Friday 6th March)
 
 * Coursework 3 – Diagrammatic Pool (50%, hand-in Week 12, Friday 6th May)
+
+
+# Project 1 - Macro & Micro
