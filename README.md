@@ -138,3 +138,26 @@ I picked this photographer as I find her underwater picks mesmerising to look at
 ![screen shot 2015-02-09 at 13 03 53](https://cloud.githubusercontent.com/assets/8985471/6106868/21a75fac-b05d-11e4-95ec-ae2250089f57.png)
 
 images from: http://www.elenakalisphoto.com/about/
+
+#My Photo's
+
+After carrying out my research and gaining as much photography tips as I possibly could I decided it was time to go out and take my own approach on photography. I developed on Dan Rubin's camera angles and Trash hands lighting skills and tried to take these skills and protray this through my own photographs.
+
+![11005725_1046531508697394_462986743_n](https://cloud.githubusercontent.com/assets/8985471/6414539/283ec274-be90-11e4-9fd8-c3ef1e0d6a9a.jpg)
+
+![11026358_1046531422030736_494274847_n](https://cloud.githubusercontent.com/assets/8985471/6414541/2b04ee8e-be90-11e4-910f-0976d98065dd.jpg)
+
+![11026504_1046530645364147_2016516369_n](https://cloud.githubusercontent.com/assets/8985471/6414542/2f898df2-be90-11e4-8fba-288c0a9efc2c.jpg)
+
+![11006071_1046530028697542_1686526149_n](https://cloud.githubusercontent.com/assets/8985471/6414557/3eae1294-be90-11e4-8f44-8ef0c9107a2d.jpg)
+
+![11020330_1046529972030881_1332976071_n](https://cloud.githubusercontent.com/assets/8985471/6414558/40a61f92-be90-11e4-8d0b-a1476e1b59d2.jpg)
+
+![11020394_1046529905364221_915274842_n](https://cloud.githubusercontent.com/assets/8985471/6414561/43b36438-be90-11e4-8e78-0bf3fb326739.jpg)
+
+![11003929_1046529122030966_1286609327_n 1](https://cloud.githubusercontent.com/assets/8985471/6414563/4650d20c-be90-11e4-846d-5f4add74612b.jpg)
+
+![11020323_1046529092030969_396436988_n](https://cloud.githubusercontent.com/assets/8985471/6414565/499a0000-be90-11e4-9048-a54742b8a8d7.jpg)
+
+
+#Project 2- Illustration
