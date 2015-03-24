@@ -160,7 +160,6 @@ After carrying out my research and gaining as much photography tips as I possibl
 ![11020323_1046529092030969_396436988_n](https://cloud.githubusercontent.com/assets/8985471/6414565/499a0000-be90-11e4-9048-a54742b8a8d7.jpg)
 
 
-#Project 2- Illustration
 
 #Project 2- Illustration
 
