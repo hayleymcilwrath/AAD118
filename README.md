@@ -161,3 +161,85 @@ After carrying out my research and gaining as much photography tips as I possibl
 
 
 #Project 2- Illustration
+
+#Project 2- Illustration
+
+For my book covers I had a few ideas on what type of designers I wanted to find and research. I like simple, limited colour book covers with a simple design. I will also show designers other designers that I find interesting as i'm still unsure in the design i want to go for on my own book covers.
+
+##Melissa Rathbone
+
+My first designer is Melissa Rathbone as I like the simplicity of her work and I think she uses the "less is more" quote perfectly. 
+
+
+![screen shot 2015-03-06 at 11 34 58](https://cloud.githubusercontent.com/assets/8985471/6524874/84fc55a6-c3f6-11e4-899e-9d3850415ecd.png)
+
+![screen shot 2015-03-06 at 11 34 44](https://cloud.githubusercontent.com/assets/8985471/6524876/8640dd1a-c3f6-11e4-96af-8287b23c3dd3.png)
+
+I also like how she uses type to make a shape as this works really well against the book colour and the type looks like a shadow of peach and the audience will be able to indicate straight away what the object is meant to be.
+
+![screen shot 2015-03-06 at 11 35 25](https://cloud.githubusercontent.com/assets/8985471/6524871/82153bb4-c3f6-11e4-9703-faa04924c79b.png)
+
+![screen shot 2015-03-06 at 11 35 16](https://cloud.githubusercontent.com/assets/8985471/6524872/837e2984-c3f6-11e4-99ac-1b2b2d3ed4ed.png)
+
+
+http://melissa-rathbone.tumblr.com/roalddahlbookcovers
+
+I enjoy looking at her work as she uses simple icons and uses a limit colour pallete to portray a meaning and creates a mood with each cover. Even tho she uses simple shapes the audiance can indicate straight away what book cover Melissa is creating which i think is a great skill to have as a designer.
+
+
+##Noma Bar
+
+
+Noma Bar is a graphic designer and his challenge was to  create a range of 10 books by Don DeLillo.
+
+![screen shot 2015-03-10 at 14 55 54](https://cloud.githubusercontent.com/assets/8985471/6577425/c4f4924e-c735-11e4-9282-519474dfe46d.png)
+
+![screen shot 2015-03-10 at 14 55 45](https://cloud.githubusercontent.com/assets/8985471/6577427/c62740b2-c735-11e4-91c5-c35767ee1cd3.png)
+
+![screen shot 2015-03-10 at 14 53 42](https://cloud.githubusercontent.com/assets/8985471/6577428/c725b8c2-c735-11e4-969e-580cf1428b1c.png)
+
+![screen shot 2015-03-10 at 14 53 31](https://cloud.githubusercontent.com/assets/8985471/6577429/c87d345c-c735-11e4-9286-02fc9cf74279.png)
+
+I enjoy the visual effect these books have as they are very graphic and bright. I also enjoy how their is limited detail, but this works with the shapes and colour used. He also uses certain shapes to represent an object which then links with the title of the book. I this style as I feel it works really well with the colours and style of the book.
+
+I also like how all the colours link together as a set creating a house style with all the books having a house style. 
+
+##Christian Jackson
+
+Christian Jackson created a series of hyper-minimalist book cover designs for a myriad of classic children’s stories we’ve grown to know and love.
+
+I enjoy how these covers use features from the story to represent it on the front as the main feature. He has used some smart shapes to create a part of the story that can make the audiance guess the story straight away with out needing to know the title.
+
+I also like how the shapes are just simple lines and circles and how he has used limited design to create the overall design.
+
+
+
+![screen shot 2015-03-10 at 15 13 04](https://cloud.githubusercontent.com/assets/8985471/6577750/0b145f50-c738-11e4-9a6c-0410da7e8282.png)
+
+![screen shot 2015-03-10 at 15 12 55](https://cloud.githubusercontent.com/assets/8985471/6577754/0c29670a-c738-11e4-88db-d390eed0667a.png)
+
+![screen shot 2015-03-10 at 15 12 45](https://cloud.githubusercontent.com/assets/8985471/6577757/0d4807f4-c738-11e4-8dcd-08dbbfbf4926.png)
+
+##Caroline Bickford Smith
+
+The horror genre appeals to me the most as i love reading scary books and then watching the movie to match. I love the feeling horror gives, the 'jumpy' suspence feeling and how there is a wide range of design when it comes to horror.
+
+A perfect example of this is Caroline Bickfords horror cover designs.
+
+I love how every book cover different yet all similar in a house style. This is through colour.
+
+![horror boobs](https://cloud.githubusercontent.com/assets/8985471/6644237/36f92988-c9aa-11e4-9cbd-05f5755bc571.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
