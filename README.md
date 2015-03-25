@@ -262,11 +262,32 @@ I have been in love with these cover redesigns since I seen them. The cloth boun
 
 I also like how the side of the book all link together when you have them as a set sitting as this will make the audiance want them all as they all link together.
 
+##Oliver Jeffers
+
+![gallery-oliver-jeffers-th-006](https://cloud.githubusercontent.com/assets/8985471/6836121/4cc7af64-d337-11e4-912e-dcd11b59898e.jpg)
+
+![412ki38jbcl](https://cloud.githubusercontent.com/assets/8985471/6836122/4e7ed99a-d337-11e4-99ff-c19bb5b8a432.jpg)
+
+![51nmwqewtyl _sx258_bo1 204 203 200_](https://cloud.githubusercontent.com/assets/8985471/6836142/69fc7b6e-d337-11e4-9007-b05eea13d4b6.jpg)
+
+![images 2](https://cloud.githubusercontent.com/assets/8985471/6836143/6bf76276-d337-11e4-8e17-da241c502c93.jpeg)
+
+![screen shot 2012-07-31 at 2 22 49 pm](https://cloud.githubusercontent.com/assets/8985471/6836124/510cf1ba-d337-11e4-8ff8-1d71b4ae4be1.png)
+
+![51szocq8onl](https://cloud.githubusercontent.com/assets/8985471/6836126/5239cd24-d337-11e4-934f-4065b9fd429c.jpg)
 
 
+##Dan Mountford
 
+![gvkjh-_1-of-1_2](https://cloud.githubusercontent.com/assets/8985471/6836181/cce945c2-d337-11e4-9d1b-3be5c2493db2.jpg)
 
+![dan-mountford-16](https://cloud.githubusercontent.com/assets/8985471/6836182/cea0776e-d337-11e4-8776-f6eb366dd86a.jpg)
 
+![04f81ff9e1398053791dc52b265a4bdd](https://cloud.githubusercontent.com/assets/8985471/6836183/cfdfc13e-d337-11e4-89dc-59046f9d2cb2.jpg)
+
+![352f8da2d0a199f6d79d594c890559ac](https://cloud.githubusercontent.com/assets/8985471/6836185/d103bb7e-d337-11e4-88a9-d14cf132603a.jpg)
+
+![dan-mountford-14](https://cloud.githubusercontent.com/assets/8985471/6836186/d20ca666-d337-11e4-8965-e11b18ef3bfe.jpg)
 
 
 
