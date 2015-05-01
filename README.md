@@ -279,7 +279,11 @@ I also like how the side of the book all link together when you have them as a s
 
 ![bookcovers1](https://cloud.githubusercontent.com/assets/8985471/7432945/7870add2-f024-11e4-829c-26dff7100221.png)
 
-![spines](https://cloud.githubusercontent.com/assets/8985471/7433016/14e1dc2c-f025-11e4-9e80-e18dcc12ff03.png)
+
+
+
+
+![book-spines](https://cloud.githubusercontent.com/assets/8985471/7433108/f357356a-f025-11e4-9111-2249b5d3b987.png)
 
 
 #Data Visulisation 
