@@ -181,9 +181,6 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 #My Photo's
 
 
-![book-covers-changeed](https://cloud.githubusercontent.com/assets/8985471/7429252/4d12fd8a-eff6-11e4-9947-3c50078bd191.png)
-
-![book-spines](https://cloud.githubusercontent.com/assets/8985471/7430610/71e2513a-f00d-11e4-8804-e805fc6ac463.png)
 
 
 
@@ -273,6 +270,6 @@ I also like how the side of the book all link together when you have them as a s
 
 ![book-covers-changeed](https://cloud.githubusercontent.com/assets/8985471/7429252/4d12fd8a-eff6-11e4-9947-3c50078bd191.png)
 
-![book-spines](https://cloud.githubusercontent.com/assets/8985471/7430610/71e2513a-f00d-11e4-8804-e805fc6ac463.png)
-#Data Visulisation 
+![book-spines](https://cloud.githubusercontent.com/assets/8985471/7430662/204370a6-f00e-11e4-95c6-b7a7fcaa54fc.png)
+ 
 
