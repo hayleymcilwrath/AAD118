@@ -183,8 +183,6 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 
 
-
-
 #Project 2- Illustration
 
 For my book covers I had a few ideas on what type of designers I wanted to find and research. I like simple, limited colour book covers with a simple design. I will also show designers other designers that I find interesting as i'm still unsure in the design i want to go for on my own book covers.
@@ -265,11 +263,24 @@ I have been in love with these cover redesigns since I seen them. The cloth boun
 
 I also like how the side of the book all link together when you have them as a set sitting as this will make the audiance want them all as they all link together.
 
+##Toby Barlow
+
+![1724365](https://cloud.githubusercontent.com/assets/8985471/7430821/bca0e1e4-f00f-11e4-931a-fc14d3ac835e.jpg)
+
+![pet-sematary-stephen-king_cat](https://cloud.githubusercontent.com/assets/8985471/7430886/8a0e137c-f010-11e4-898e-8f5eeab241b6.jpg)
+
+![tumblr_n9snzsrmtv1qkl5tno3_400](https://cloud.githubusercontent.com/assets/8985471/7430887/8b42820a-f010-11e4-8f09-839a5fc70894.jpg)
+
+![download](https://cloud.githubusercontent.com/assets/8985471/7430888/8c5fb9d2-f010-11e4-9fb5-f5157b2c9c4f.jpeg)
+
+
 #My book covers
 
 
-![book-covers-changeed](https://cloud.githubusercontent.com/assets/8985471/7429252/4d12fd8a-eff6-11e4-9947-3c50078bd191.png)
+![bookcovers1](https://cloud.githubusercontent.com/assets/8985471/7432945/7870add2-f024-11e4-829c-26dff7100221.png)
 
-![book-spines](https://cloud.githubusercontent.com/assets/8985471/7430662/204370a6-f00e-11e4-95c6-b7a7fcaa54fc.png)
- 
+![spines](https://cloud.githubusercontent.com/assets/8985471/7433016/14e1dc2c-f025-11e4-9e80-e18dcc12ff03.png)
+
+
+#Data Visulisation 
 
