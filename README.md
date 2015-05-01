@@ -1,4 +1,4 @@
-# Project 1- Photography
+Project 1- Photography
 
 
 ###Macro
@@ -30,32 +30,59 @@ Six of the best will be presented in your Design Journal.
 
 > “For me, the camera is a sketchbook, an instrument of intuition and spontaneity.” Henri Cartier-Bresson
 
-Knowing when, how and where to use images in your work is an essential tool all designers need to master. Through my following research I will discover photographers that inspire and challenge me to push the way I view photo's  and also gaining skills and tips in taking my own photographs with these added skills.
+"Knowing when, how and where to use images in your work is an essential tool all designers need to master." Through my following research I will discover photographers that inspire and challenge me to push the way I view photo's  and also gaining skills and tips in taking my own photographs with these added skills.
 
 Rules to look out for when taking a photograph:
 
-* The Rule of Thirds-
+### The Rule of Thirds-
+
 The basic principle behind the rule of thirds is to imagine breaking an image down into thirds, both horizontally and vertically so that you have 9 parts.
 
 ![rule-of-thirds](https://cloud.githubusercontent.com/assets/8985471/6109897/24987002-b076-11e4-8a87-911f33078b05.jpg)
 
-Website http://digital-photography-school.com/rule-of-thirds/
-
-These four points are the 4 main points of interest and the theory is that the viewer of the image will interact with the image more naturally.
 
 
-* Keep your horizontals, horizontal-
+An example with an image:
+
+![slide056-590x443](https://cloud.githubusercontent.com/assets/8985471/7430175/d8a4aca8-f006-11e4-861f-b0b2f64d3a77.jpg)
+
+These four points are the 4 main points of interest and the theory is that the viewer of the image will interact with the image more naturally and smoothly.
+
+
+### Keep your horizontals, horizontal-
+
 If in the image being shot has any vertical lines e.g a horizon the lines have to be kept horizontal or the image will not look right.
 
+An example of this:
 
-* Looking for fresh angles-
-lying on the ground with a look up shot, tilting the camera just experiment. More interesting!
+![horizontal-lines-2-600x460](https://cloud.githubusercontent.com/assets/8985471/7430200/2c5361a0-f007-11e4-9580-6c79a8afd01c.jpg)
+
+As you can see the line on the road has stayed horizontal and keeps the image looking balanced.
 
 
-* Fill the frame-
-filling the frame of a shot can make a very interesting image.
+### Looking for fresh angles-
+
+lying on the ground with a look up shot, tilting the camera just experiment. More interesting! 
+
+An example of this:
+
+![v06_ext_look_up_shot_lr1](https://cloud.githubusercontent.com/assets/8985471/7430240/d4b18ce6-f007-11e4-87cf-facfe13ebf70.jpg)
+
+this shot looks more modern and interesting because its not a boring straight on shot. It is more experimentive and pushing the rules of photography.
+
+
+### Fill the frame-
+
+filling the frame of a shot can make a very interesting image. rather than just having the image half the frame why not have it the whole frame. This is a great skill to have as it can have a great affect on the photo's being took.
+
+An example of this:
+
+![fill_the_frame_pavo_cristatus](https://cloud.githubusercontent.com/assets/8985471/7430268/5c26bbf6-f008-11e4-8c89-6a400a22c684.jpg)
+
+This photo is much more appealing looking at it has the whole frame filled with its image, rather than just a image with white space.
 
 #Photographers that inspire me
+
 ##Dan Rubin
 
 ![danrubin_1406993287_83](https://cloud.githubusercontent.com/assets/8985471/6023543/3c36a200-abbd-11e4-8683-ffd0ab25eade.jpg)
@@ -75,7 +102,7 @@ When I first seen Dan Rubins Photographs I didn't think they were took through a
 
 Instagram: http://instagram.com/danrubin/
 
-Also we can see when he is taking a photograph, thought is used carefully as each photograph represents a story. An example of this is in the second photograph as he takes a high angle shot of his camera which has also taken a photograph of its own angle of the landscape infront creating a beautiful detailed photograph.
+Each photograph is thought out carefully as each photograph represents a story. An example of this is in the second photograph, as he has  a high angle shot of his camera which has also taken a photograph of its own angle of the landscape infront creating a beautiful detailed photograph.
 
 Each photo is so clear and crisp which makes them so easy to look at. The last photo uses a lot of emotion through the colour and lighting used to represent the story. I also like how the water is used as a reflection in the last one to form a mirror which works as it makes the water look the same as the sky. I also like the way he has used the lighting in this picture to make the monument the form of light and the trees capture some of the light to cause the reflection in the water.
 
@@ -131,9 +158,9 @@ I love how each photo is so crisp and detailed and in most of them you cant tell
 
 ##Randy Scott Slavin
 
-Randy Scott Slavin is an award-winning director and surrealist photographer based in New York City. 
+Randy Scott Slavin is an award-winning director and surrealist photographer based in New York City.
 
-He is known for his bold photographey skills as he mashes up clever concepts with bold imagery. As you can see below his images are 
+He is known for his bold photographey skills as he mashes up clever concepts with bold imagery. As you can see below his images are
 
 
 ![screen shot 2015-03-10 at 14 02 47](https://cloud.githubusercontent.com/assets/8985471/6576387/cf861d88-c72e-11e4-84c0-2020cfa48cd6.png)
@@ -151,35 +178,8 @@ He is known for his bold photographey skills as he mashes up clever concepts wit
 website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 
-
-
-
-
-
-
-
 #My Photo's
 
-After carrying out my research and gaining as much photography tips as I possibly could I decided it was time to go out and take my own approach on photography. I developed on Dan Rubin's camera angles and Trash hands lighting skills and tried to take these skills and protray this through my own photographs.
-
-
-![11026358_1046531422030736_494274847_n](https://cloud.githubusercontent.com/assets/8985471/6414541/2b04ee8e-be90-11e4-910f-0976d98065dd.jpg)
-
-![11026504_1046530645364147_2016516369_n](https://cloud.githubusercontent.com/assets/8985471/6414542/2f898df2-be90-11e4-8fba-288c0a9efc2c.jpg)
-
-![11006071_1046530028697542_1686526149_n](https://cloud.githubusercontent.com/assets/8985471/6414557/3eae1294-be90-11e4-8f44-8ef0c9107a2d.jpg)
-
-![11020330_1046529972030881_1332976071_n](https://cloud.githubusercontent.com/assets/8985471/6414558/40a61f92-be90-11e4-8d0b-a1476e1b59d2.jpg)
-
-![11020394_1046529905364221_915274842_n](https://cloud.githubusercontent.com/assets/8985471/6414561/43b36438-be90-11e4-8e78-0bf3fb326739.jpg)
-
-![11003929_1046529122030966_1286609327_n 1](https://cloud.githubusercontent.com/assets/8985471/6414563/4650d20c-be90-11e4-846d-5f4add74612b.jpg)
-
-![11020323_1046529092030969_396436988_n](https://cloud.githubusercontent.com/assets/8985471/6414565/499a0000-be90-11e4-9048-a54742b8a8d7.jpg)
-
-![11007609_1046531552030723_661823936_n](https://cloud.githubusercontent.com/assets/8985471/6416423/0332828c-be9e-11e4-95e8-ec423c59d419.jpg)
-
-![10961806_1046530202030858_1456879638_n](https://cloud.githubusercontent.com/assets/8985471/6416432/11ee24d4-be9e-11e4-9ff1-ee4ae9794680.jpg)
 
 
 
@@ -189,7 +189,7 @@ For my book covers I had a few ideas on what type of designers I wanted to find 
 
 ##Melissa Rathbone
 
-My first designer is Melissa Rathbone as I like the simplicity of her work and I think she uses the "less is more" quote perfectly. 
+My first designer is Melissa Rathbone as I like the simplicity of her work and I think she uses the "less is more" quote perfectly.
 
 
 ![screen shot 2015-03-06 at 11 34 58](https://cloud.githubusercontent.com/assets/8985471/6524874/84fc55a6-c3f6-11e4-899e-9d3850415ecd.png)
@@ -223,7 +223,7 @@ Noma Bar is a graphic designer and his challenge was to  create a range of 10 bo
 
 I enjoy the visual effect these books have as they are very graphic and bright. I also enjoy how their is limited detail, but this works with the shapes and colour used. He also uses certain shapes to represent an object which then links with the title of the book. I this style as I feel it works really well with the colours and style of the book.
 
-I also like how all the colours link together as a set creating a house style with all the books having a house style. 
+I also like how all the colours link together as a set creating a house style with all the books having a house style.
 
 ##Christian Jackson
 
@@ -240,6 +240,7 @@ I also like how the shapes are just simple lines and circles and how he has used
 ![screen shot 2015-03-10 at 15 12 55](https://cloud.githubusercontent.com/assets/8985471/6577754/0c29670a-c738-11e4-88db-d390eed0667a.png)
 
 ![screen shot 2015-03-10 at 15 12 45](https://cloud.githubusercontent.com/assets/8985471/6577757/0d4807f4-c738-11e4-8dcd-08dbbfbf4926.png)
+
 
 ##Caroline Bickford Smith
 
@@ -262,42 +263,11 @@ I have been in love with these cover redesigns since I seen them. The cloth boun
 
 I also like how the side of the book all link together when you have them as a set sitting as this will make the audiance want them all as they all link together.
 
-##Oliver Jeffers
+#My book covers
 
-![gallery-oliver-jeffers-th-006](https://cloud.githubusercontent.com/assets/8985471/6836121/4cc7af64-d337-11e4-912e-dcd11b59898e.jpg)
-
-![412ki38jbcl](https://cloud.githubusercontent.com/assets/8985471/6836122/4e7ed99a-d337-11e4-99ff-c19bb5b8a432.jpg)
-
-![51nmwqewtyl _sx258_bo1 204 203 200_](https://cloud.githubusercontent.com/assets/8985471/6836142/69fc7b6e-d337-11e4-9007-b05eea13d4b6.jpg)
-
-![images 2](https://cloud.githubusercontent.com/assets/8985471/6836143/6bf76276-d337-11e4-8e17-da241c502c93.jpeg)
-
-![screen shot 2012-07-31 at 2 22 49 pm](https://cloud.githubusercontent.com/assets/8985471/6836124/510cf1ba-d337-11e4-8ff8-1d71b4ae4be1.png)
-
-![51szocq8onl](https://cloud.githubusercontent.com/assets/8985471/6836126/5239cd24-d337-11e4-934f-4065b9fd429c.jpg)
-
-
-##Dan Mountford
-
-![gvkjh-_1-of-1_2](https://cloud.githubusercontent.com/assets/8985471/6836181/cce945c2-d337-11e4-9d1b-3be5c2493db2.jpg)
-
-![dan-mountford-16](https://cloud.githubusercontent.com/assets/8985471/6836182/cea0776e-d337-11e4-8776-f6eb366dd86a.jpg)
-
-![04f81ff9e1398053791dc52b265a4bdd](https://cloud.githubusercontent.com/assets/8985471/6836183/cfdfc13e-d337-11e4-89dc-59046f9d2cb2.jpg)
-
-![352f8da2d0a199f6d79d594c890559ac](https://cloud.githubusercontent.com/assets/8985471/6836185/d103bb7e-d337-11e4-88a9-d14cf132603a.jpg)
-
-![dan-mountford-14](https://cloud.githubusercontent.com/assets/8985471/6836186/d20ca666-d337-11e4-8965-e11b18ef3bfe.jpg)
-
-#My Book covers
 
 ![book-covers-changeed](https://cloud.githubusercontent.com/assets/8985471/7429252/4d12fd8a-eff6-11e4-9947-3c50078bd191.png)
 
-
-
-
-
-
-
-
+![book-spines](https://cloud.githubusercontent.com/assets/8985471/7430610/71e2513a-f00d-11e4-8804-e805fc6ac463.png)
+#Data Visulisation 
 
