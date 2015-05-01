@@ -181,6 +181,11 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 #My Photo's
 
 
+![book-covers-changeed](https://cloud.githubusercontent.com/assets/8985471/7429252/4d12fd8a-eff6-11e4-9947-3c50078bd191.png)
+
+![book-spines](https://cloud.githubusercontent.com/assets/8985471/7430610/71e2513a-f00d-11e4-8804-e805fc6ac463.png)
+
+
 
 
 #Project 2- Illustration
