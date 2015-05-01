@@ -289,6 +289,12 @@ I also like how the side of the book all link together when you have them as a s
 
 ![dan-mountford-14](https://cloud.githubusercontent.com/assets/8985471/6836186/d20ca666-d337-11e4-8965-e11b18ef3bfe.jpg)
 
+#My Book covers
+
+![book-covers-changeed](https://cloud.githubusercontent.com/assets/8985471/7429252/4d12fd8a-eff6-11e4-9947-3c50078bd191.png)
+
+
+
 
 
 
