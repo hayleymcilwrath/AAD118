@@ -180,7 +180,9 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 #My Photo's
 
-[insert photos]
+![20150507_174544](https://cloud.githubusercontent.com/assets/8985471/7524240/78f5cdf4-f4f8-11e4-9467-552628f2c692.jpg)
+
+![20150507_174527](https://cloud.githubusercontent.com/assets/8985471/7524242/7afb3d3c-f4f8-11e4-8a39-301b28f43c1d.jpg)
 
 ##Macro-
 
