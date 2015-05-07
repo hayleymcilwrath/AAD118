@@ -90,9 +90,9 @@ This photo is much more appealing looking at it has the whole frame filled with 
 
 Dan Rubin was born in Miami Beach and is now living in London. Dan is a designer, photographer, and founder and creative director of Webgraph which is a multi-disciplinary studio based in the US.
 
-What interests me about Dan Rubin is he can take such focused and professional photos through only using his IPhone and different IPhone photo apps. This inspires me because not only can we try it ourselves but he shows videos on how to achieve the most from your iphone camera and different tips and tricks on exposure and lighting.
+What interests me about Dan Rubin is he can take such focused and professional photos through only using his IPhone and different IPhone photo apps. This inspires me because not only can we try it ourselves but he shows videos on how to achieve the most from your iPhone camera and different tips and tricks on exposure and lighting.
 
-When I first seen Dan Rubins Photographs I didn't think they were took through an iphone camera as they have such focus and the way he captures the lightening makes his photographs unique and every one of them tells a story.
+When I first seen Dan Rubin’s Photographs I didn't think they were took through an iPhone camera as they have such focus and the way he captures the lightening makes his photographs unique and every one of them tells a story.
 
 ![screen shot 2015-02-04 at 17 36 08](https://cloud.githubusercontent.com/assets/8985471/6045758/8fac5ac4-ac94-11e4-86e0-63800d9caffb.png)
 
@@ -102,7 +102,7 @@ When I first seen Dan Rubins Photographs I didn't think they were took through a
 
 Instagram: http://instagram.com/danrubin/
 
-Each photograph is thought out carefully as each photograph represents a story. An example of this is in the second photograph, as he has  a high angle shot of his camera which has also taken a photograph of its own angle of the landscape infront creating a beautiful detailed photograph.
+Each photograph is thought out carefully as each photograph represents a story. An example of this is in the second photograph, as he has  a high angle shot of his camera which has also taken a photograph of its own angle of the landscape in front creating a beautiful detailed photograph.
 
 Each photo is so clear and crisp which makes them so easy to look at. The last photo uses a lot of emotion through the colour and lighting used to represent the story. I also like how the water is used as a reflection in the last one to form a mirror which works as it makes the water look the same as the sky. I also like the way he has used the lighting in this picture to make the monument the form of light and the trees capture some of the light to cause the reflection in the water.
 
@@ -154,13 +154,13 @@ I picked this photographer as I find her underwater picks mesmerising to look at
 
 images from: http://www.elenakalisphoto.com/about/
 
-I love how each photo is so crisp and detailed and in most of them you cant tell they are taken underwater except for the bubbles through out the water. The poses of the models are elegant and the way in which the angle of the camera is each model has a dfferent story.
+I love how each photo is so crisp and detailed and in most of them you cant tell they are taken underwater except for the bubbles through out the water. The poses of the models are elegant and the way in which the angle of the camera is each model has a different story.
 
 ##Randy Scott Slavin
 
 Randy Scott Slavin is an award-winning director and surrealist photographer based in New York City.
 
-He is known for his bold photographey skills as he mashes up clever concepts with bold imagery. As you can see below his images are
+He is known for his bold photography skills as he mashes up clever concepts with bold imagery. As you can see below his images are
 
 
 ![screen shot 2015-03-10 at 14 02 47](https://cloud.githubusercontent.com/assets/8985471/6576387/cf861d88-c72e-11e4-84c0-2020cfa48cd6.png)
@@ -180,7 +180,11 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 #My Photo's
 
+[insert photos]
 
+##Macro-
+
+##Micro-
 
 
 #Project 2- Illustration
@@ -205,7 +209,7 @@ I also like how she uses type to make a shape as this works really well against 
 
 http://melissa-rathbone.tumblr.com/roalddahlbookcovers
 
-I enjoy looking at her work as she uses simple icons and uses a limit colour pallete to portray a meaning and creates a mood with each cover. Even tho she uses simple shapes the audiance can indicate straight away what book cover Melissa is creating which i think is a great skill to have as a designer.
+I enjoy looking at her work as she uses simple icons and uses a limit colour palette to portray a meaning and creates a mood with each cover. Even tho she uses simple shapes the audience can indicate straight away what book cover Melissa is creating which i think is a great skill to have as a designer.
 
 
 ##Noma Bar
@@ -246,7 +250,7 @@ I also like how the shapes are just simple lines and circles and how he has used
 
 A perfect example of this is Caroline Bickfords horror cover designs.
 
-I love how every book cover different yet all similar in a house style. This is through colour. I like how she has only limited her self to 2 main colour's and this has a impact through her bookcovers.
+I love how every book cover different yet all similar in a house style. This is through colour. I like how she has only limited her self to 2 main colour's and this has a impact through her book covers.
 
 ![horror boobs](https://cloud.githubusercontent.com/assets/8985471/6644237/36f92988-c9aa-11e4-9cbd-05f5755bc571.png)
 
@@ -257,15 +261,17 @@ More book covers designed by Caroline was her penguin books Great Food series wh
 
 ![penguin_hardback_classics](https://cloud.githubusercontent.com/assets/8985471/6835710/646f8680-d334-11e4-9b88-17e79a4c9b7e.jpg)
 
-I have been in love with these cover redesigns since I seen them. The cloth bound editions are beutifuly desinged.
+I have been in love with these cover redesigns since I seen them. The cloth bound editions are beautifully designed.
 
 ![penguin-classics-clothbound-hardback-spines-258x300](https://cloud.githubusercontent.com/assets/8985471/6835709/632b568c-d334-11e4-9695-a6ee4d7bbc4c.jpg)
 
-I also like how the side of the book all link together when you have them as a set sitting as this will make the audiance want them all as they all link together.
+I also like how the side of the book all link together when you have them as a set sitting as this will make the audience want them all as they all link together.
 
 ##Toby Barlow
 
 ![1724365](https://cloud.githubusercontent.com/assets/8985471/7430821/bca0e1e4-f00f-11e4-931a-fc14d3ac835e.jpg)
+
+##Stephen King
 
 ![pet-sematary-stephen-king_cat](https://cloud.githubusercontent.com/assets/8985471/7430886/8a0e137c-f010-11e4-898e-8f5eeab241b6.jpg)
 
@@ -285,6 +291,29 @@ I also like how the side of the book all link together when you have them as a s
 
 ![book-spines](https://cloud.githubusercontent.com/assets/8985471/7433108/f357356a-f025-11e4-9111-2249b5d3b987.png)
 
+#Project 3- Data Visualisation 
 
-#Data Visulisation 
+We were given the task of creating an Infographic displaying data on world population. To start this task of I collected a series of screenshots to give me a rough idea of the layout I wanted and also what type of style and colour I wanted to go for. I then wrote down the important information from each to collect my own data together on what would be important to add into my own.
+ 
+ We were giving the link to the website: http://www.worldometers.info/world-population/ to use the data information of world population to design are Infographic on.  
+  
+Below are some examples of other infographics that I have found while doing research;
 
+
+
+
+![screen shot 2015-05-06 at 14 43 03](https://cloud.githubusercontent.com/assets/8985471/7494215/4bc41e8a-f3fe-11e4-8bef-2708d5300664.png)
+
+
+![screen shot 2015-05-06 at 14 42 48](https://cloud.githubusercontent.com/assets/8985471/7494216/4d58c55c-f3fe-11e4-9d65-b27bda00170a.png)
+
+![screen shot 2015-05-06 at 14 42 03](https://cloud.githubusercontent.com/assets/8985471/7494217/4f4ab4ec-f3fe-11e4-8fb5-98ac75813f90.png)
+
+![screen shot 2015-05-06 at 14 41 46](https://cloud.githubusercontent.com/assets/8985471/7494220/5082be0e-f3fe-11e4-92a5-b352241672a6.png)
+
+
+![screen shot 2015-05-06 at 14 41 16](https://cloud.githubusercontent.com/assets/8985471/7494223/5346daa8-f3fe-11e4-8fef-1b20d424d0de.png)
+
+##My Infographic
+
+![infographic](https://cloud.githubusercontent.com/assets/8985471/7507475/0f90a612-f468-11e4-925c-e7954b0887a7.png)
