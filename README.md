@@ -183,7 +183,7 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 All photo's can be viewed on [flikr] (https://www.flickr.com/photos/128349074@N08/sets/72157652453157972/)
 
 
-##This is some example of the photo's taken:
+##Some examples of my photo's:
 
 ##St Patricks
 
