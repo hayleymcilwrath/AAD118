@@ -180,6 +180,13 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 #My Photo's
 
+All my photos are can be veiwed on:
+
+(https://www.flickr.com/photos/128349074@N08/sets/72157652453157972/)
+
+
+##This is some example of the photo's taken:
+
 ##St Patricks
 
 The first destination I picked was St Patricks church. I picked this because i have always liked the shape of the church from the outside. i picked a clear sunny day to do my photographs on, as a result to this my photographs capture strong light which makes them crisp and clear looking.
