@@ -180,14 +180,43 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 #My Photo's
 
-![20150507_174544](https://cloud.githubusercontent.com/assets/8985471/7524240/78f5cdf4-f4f8-11e4-9467-552628f2c692.jpg)
+##St Patricks
 
-![20150507_174527](https://cloud.githubusercontent.com/assets/8985471/7524242/7afb3d3c-f4f8-11e4-8a39-301b28f43c1d.jpg)
+The first destination I picked was St Patricks church. I picked this because i have always liked the shape of the church from the outside. i picked a clear sunny day to do my photographs on, as a result to this my photographs capture strong light which makes them crisp and clear looking.
 
-##Macro-
+![20150507_163725](https://cloud.githubusercontent.com/assets/8985471/7526431/5035fcca-f509-11e4-8e54-598543b569d2.jpg)
 
-##Micro-
+![20150507_163759](https://cloud.githubusercontent.com/assets/8985471/7526432/50516b36-f509-11e4-841d-c71c7ac6c75e.jpg)
 
+![20150507_174527](https://cloud.githubusercontent.com/assets/8985471/7526433/5058e956-f509-11e4-87bd-aad2f208aae0.jpg)
+
+![20150507_174544](https://cloud.githubusercontent.com/assets/8985471/7526434/505ad950-f509-11e4-9009-095c89d7f8ed.jpg)
+
+![20150507_163312](https://cloud.githubusercontent.com/assets/8985471/7526490/e6a4b156-f509-11e4-8a74-8681663008a7.jpg)
+
+![20150507_163417](https://cloud.githubusercontent.com/assets/8985471/7526491/e6aa37b6-f509-11e4-8710-62b1e04bf910.jpg)
+
+![20150507_163516](https://cloud.githubusercontent.com/assets/8985471/7526492/e6ad296c-f509-11e4-9444-167f006de843.jpg)
+
+![20150507_163606](https://cloud.githubusercontent.com/assets/8985471/7526493/e6b1ce0e-f509-11e4-85a6-d587be10b05f.jpg)
+
+##Culloden Hotel
+
+![20150507_182149](https://cloud.githubusercontent.com/assets/8985471/7527108/3797fb4e-f510-11e4-8ab8-1401550986a4.jpg)
+
+![20150507_182333](https://cloud.githubusercontent.com/assets/8985471/7527109/379a9494-f510-11e4-9d67-bbf2f41642d0.jpg)
+
+![20150507_182344](https://cloud.githubusercontent.com/assets/8985471/7527110/379c842a-f510-11e4-828d-a1a469418b09.jpg)
+
+![20150507_182531](https://cloud.githubusercontent.com/assets/8985471/7527111/37a1a1ee-f510-11e4-864d-f3f98442b4a6.jpg)
+
+![20150507_181939](https://cloud.githubusercontent.com/assets/8985471/7527213/0e8f8c98-f511-11e4-8cc9-a34e3a0c0d06.jpg)
+
+![20150507_181956](https://cloud.githubusercontent.com/assets/8985471/7527214/0e91bb94-f511-11e4-9833-d24cfd4b12c2.jpg)
+
+![20150507_182012](https://cloud.githubusercontent.com/assets/8985471/7527215/0e97ea96-f511-11e4-9d2c-95403535f6b6.jpg)
+
+![20150507_182041](https://cloud.githubusercontent.com/assets/8985471/7527216/0e9b7850-f511-11e4-91b9-e79debd51a29.jpg)
 
 #Project 2- Illustration
 
@@ -306,6 +335,7 @@ Below are some examples of other infographics that I have found while doing rese
 
 ![screen shot 2015-05-06 at 14 43 03](https://cloud.githubusercontent.com/assets/8985471/7494215/4bc41e8a-f3fe-11e4-8bef-2708d5300664.png)
 
+I like the style of the map and the pointers on the map. 
 
 ![screen shot 2015-05-06 at 14 42 48](https://cloud.githubusercontent.com/assets/8985471/7494216/4d58c55c-f3fe-11e4-9d65-b27bda00170a.png)
 
