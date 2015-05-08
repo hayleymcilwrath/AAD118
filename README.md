@@ -182,7 +182,7 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 All my photos are can be veiwed on:
 
-(https://www.flickr.com/photos/128349074@N08/sets/72157652453157972/)
+https://www.flickr.com/photos/128349074@N08/sets/72157652453157972/
 
 
 ##This is some example of the photo's taken:
