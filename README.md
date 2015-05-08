@@ -318,6 +318,27 @@ I also like how the side of the book all link together when you have them as a s
 
 #My book covers
 
+To start off i did some sketches in my sketch book to gave me an idea of what way i wanted each cover to look like.
+
+![11056816_911103985588418_1532521518_n](https://cloud.githubusercontent.com/assets/8985471/7541967/315ed094-f5b1-11e4-9525-620c8b7c8e9e.jpg)
+
+![11063364_911104015588415_64737188_n](https://cloud.githubusercontent.com/assets/8985471/7541970/339dbd20-f5b1-11e4-8efa-ea4ff3fad3c6.jpg)
+
+![961640_911104055588411_5654832_n](https://cloud.githubusercontent.com/assets/8985471/7541971/33b372fa-f5b1-11e4-89aa-77adff3d099b.jpg)
+
+![11074679_911104075588409_341332777_n](https://cloud.githubusercontent.com/assets/8985471/7541972/347d62fe-f5b1-11e4-93b2-cee87a7b3e28.jpg)
+
+![11056805_909796902385793_1939355796_n](https://cloud.githubusercontent.com/assets/8985471/7541977/3671ced8-f5b1-11e4-9e18-50945f483a8c.jpg)
+
+![11026484_909796922385791_1435990987_n](https://cloud.githubusercontent.com/assets/8985471/7541980/380db6d0-f5b1-11e4-9ade-60cf1cfec19d.jpg)
+
+![11056792_909796925719124_977013972_n](https://cloud.githubusercontent.com/assets/8985471/7541981/3a664c94-f5b1-11e4-95f8-377afb298762.jpg)
+
+![11063002_909796979052452_925283526_n](https://cloud.githubusercontent.com/assets/8985471/7541984/3bce1404-f5b1-11e4-9a66-15876b7c1455.jpg)
+
+![11015463_909796992385784_169278830_n](https://cloud.githubusercontent.com/assets/8985471/7541987/3da0a490-f5b1-11e4-97a4-ea1aa633f2fe.jpg)
+
+
 
 ![bookcovers1](https://cloud.githubusercontent.com/assets/8985471/7432945/7870add2-f024-11e4-829c-26dff7100221.png)
 
