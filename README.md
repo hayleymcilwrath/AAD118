@@ -372,6 +372,21 @@ I like the style of the map and the pointers on the map.
 
 ![screen shot 2015-05-06 at 14 41 16](https://cloud.githubusercontent.com/assets/8985471/7494223/5346daa8-f3fe-11e4-8fef-1b20d424d0de.png)
 
+#Brendan Dawes
+
+![screen shot 2015-05-08 at 18 33 53](https://cloud.githubusercontent.com/assets/8985471/7542416/84b5b76e-f5b4-11e4-9795-6b04a0b8ebb3.png)
+
+![screen shot 2015-05-08 at 18 33 44](https://cloud.githubusercontent.com/assets/8985471/7542417/86565d26-f5b4-11e4-8ab8-b4487e09a1a1.png)
+
+![screen shot 2015-05-08 at 18 33 34](https://cloud.githubusercontent.com/assets/8985471/7542420/88b8acc2-f5b4-11e4-9f94-a3269429075e.png)
+
+![screen shot 2015-05-08 at 18 33 20](https://cloud.githubusercontent.com/assets/8985471/7542422/8a738ea6-f5b4-11e4-8a7b-2f917410d5d4.png)
+
+![screen shot 2015-05-08 at 18 33 12](https://cloud.githubusercontent.com/assets/8985471/7542423/8cd351b8-f5b4-11e4-9645-029115bdb146.png)
+
+![screen shot 2015-05-08 at 18 32 59](https://cloud.githubusercontent.com/assets/8985471/7542425/8ec1c5ea-f5b4-11e4-828f-b664ad85dbc4.png)
+
+
 ##My Infographic
 
 ![infographic](https://cloud.githubusercontent.com/assets/8985471/7507475/0f90a612-f468-11e4-925c-e7954b0887a7.png)
