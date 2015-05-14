@@ -389,4 +389,5 @@ I like the style of the map and the pointers on the map.
 
 ##My Infographic
 
-![infographic](https://cloud.githubusercontent.com/assets/8985471/7507475/0f90a612-f468-11e4-925c-e7954b0887a7.png)
+![infographic-new](https://cloud.githubusercontent.com/assets/8985471/7641438/ad905370-fa81-11e4-8c68-af9312c54a5a.png)
+
