@@ -180,7 +180,7 @@ website: http://www.randyscottslavin.com/alternate-perspectives-2/
 
 #My Photo's
 
-Final picked photos can be veiwed on my [flikr Album] (https://www.flickr.com/photos/128349074@N08/sets/72157652453157972)
+Final picked photos can be veiwed on my [Flikr Album] (https://www.flickr.com/photos/128349074@N08/sets/72157652453157972)
 
 
 ##Some examples of my photo's:
